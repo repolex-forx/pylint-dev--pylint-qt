@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pylint-dev/pylint-qt/commit/93e40dcf81190c4cbdbaeba1b41c06c97cbadfc9",
       "git:hexsha": "93e40dcf81190c4cbdbaeba1b41c06c97cbadfc9",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T22:21:05.983972+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pylint-dev/pylint-qt/commit/130704a37edc3d9bf78b0564c1bac762b66ed228",
