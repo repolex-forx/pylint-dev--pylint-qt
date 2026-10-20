@@ -1,0 +1,11 @@
+{
+  "org": "pylint-dev",
+  "repo": "pylint-qt",
+  "versions": [
+    {
+      "commit": "93e40dcf81190c4cbdbaeba1b41c06c97cbadfc9",
+      "tag": "",
+      "parsed_at": "2026-10-20T22:21:05.984428+00:00"
+    }
+  ]
+}
